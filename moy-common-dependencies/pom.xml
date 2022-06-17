@@ -18,7 +18,7 @@
         <commons-lang3.version>3.6</commons-lang3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
         <commons-io.version>2.6</commons-io.version>
-        <fastjson.version>1.2.59</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!--验证码版本-->
         <kaptcha.version>0.0.9</kaptcha.version>
         <!--spring-boot版本-->
